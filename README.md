@@ -1,14 +1,14 @@
 Code from the book 
 
 **An Introduction to Statistical Learning with Applications in R**
+
 Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani
 
-http://www-bcf.usc.edu/~gareth/ISL/
+[Book Website](http://www-bcf.usc.edu/~gareth/ISL/)
 
-Course info:
 
-http://www.alsharif.info/#!iom530/c21o7
+[Course info](http://www.alsharif.info/#!iom530/c21o7)
 
-https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about
+[Stanford online course](https://class.stanford.edu/courses/HumanitiesScience/StatLearning/Winter2014/about)
 
 
